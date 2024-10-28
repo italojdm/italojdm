@@ -1,6 +1,7 @@
 # Aspirante a desenvolvedor web full Stack.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIFAMETRO e Pós-Graduado em Engenharia de Software, DevOps e Computação em Nuvem pela mesma instituição.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas
+🎓 Pós-Graduado em Engenharia de Software, DevOps e Computação em Nuvem.
 
 Com 9 anos de experiência na área de tecnologia da informação, atuo como Analista de Sistemas, com foco em ERP SAP Business One e CRM Salesforce. Minha atuação é voltada para a otimização e aprimoramento contínuo dos sistemas, envolvendo a criação e customização de relatórios, análise de causa raiz de incidentes, além de oferecer suporte e sustentação para garantir a estabilidade e eficiência operacional.
 
