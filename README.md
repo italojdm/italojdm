@@ -1,4 +1,4 @@
-# Aspirante a desenvolvedor web full Stack.
+# Aspirante a desenvolvedor full Stack.
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 
